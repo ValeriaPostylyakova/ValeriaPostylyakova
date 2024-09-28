@@ -1,13 +1,15 @@
 # Привет, меня зовут Постылякова Валерия 👋
 
-![Header](https://github.com/ValeriaPostylyakova/ValeriaPostylyakova/blob/main/assets/frontend-developer.gif)
+![HeaderImg](https://github.com/ValeriaPostylyakova/ValeriaPostylyakova/blob/main/assets/frontend-developer.gif)
 
 ## Обо мне
 
-- 
+- ⚡ Пишу на **React, TypeScript, Redux Toolkit**, умею разрабатывать сложные приложения и сайты
+- 📝С моим портфолио вы можете ознакомиться **[здесь](https://valeriapostylyakova.github.io/Portfolio/)**
+- 👀Связаться со мной вы можете по почте **<postylyakova.valeria@mail.ru>**
 
 ### Мои навыки и инструменты
-[]()
+
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=pink)
