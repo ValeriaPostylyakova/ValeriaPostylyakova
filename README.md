@@ -1,12 +1,12 @@
 # Привет, меня зовут Постылякова Валерия 👋
 
-![HeaderImg](https://github.com/ValeriaPostylyakova/ValeriaPostylyakova/blob/main/assets/frontend-developer.gif)
+![HeaderImg](https://github.com/ValeriaPostylyakova/ValeriaPostylyakova/blob/main/assets/images.gif)
 
 ## Обо мне
 
-- ⚡ Пишу на **React, TypeScript, Redux Toolkit**, умею разрабатывать сложные приложения и сайты
+- ⚡ Я являюсь Frontend-разработчиком, пишу на **React, TypeScript, Redux Toolkit**, умею разрабатывать сложные приложения и сайты
 - 📝 С моим портфолио вы можете ознакомиться **[здесь](https://valeriapostylyakova.github.io/Portfolio/)**
-- 👀 Связаться со мной вы можете по почте **<postylyakova.valeria@mail.ru>**
+- 👀 Связаться со мной вы можете по почте **<postylyakova.valeria@mail.ru>** или через социальные сети
 
 ### Мои навыки и инструменты
 
