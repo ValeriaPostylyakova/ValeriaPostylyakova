@@ -24,12 +24,14 @@
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Мои социальные сети
 [![Static Badge](https://img.shields.io/badge/VKONTAKTE-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/your_infinity89)
 [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/your_infinity888)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
