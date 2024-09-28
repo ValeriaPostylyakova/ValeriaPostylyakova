@@ -5,8 +5,8 @@
 ## Обо мне
 
 - ⚡ Пишу на **React, TypeScript, Redux Toolkit**, умею разрабатывать сложные приложения и сайты
-- 📝С моим портфолио вы можете ознакомиться **[здесь](https://valeriapostylyakova.github.io/Portfolio/)**
-- 👀Связаться со мной вы можете по почте **<postylyakova.valeria@mail.ru>**
+- 📝 С моим портфолио вы можете ознакомиться **[здесь](https://valeriapostylyakova.github.io/Portfolio/)**
+- 👀 Связаться со мной вы можете по почте **<postylyakova.valeria@mail.ru>**
 
 ### Мои навыки и инструменты
 
@@ -29,8 +29,7 @@
 [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/your_infinity888)
 
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
