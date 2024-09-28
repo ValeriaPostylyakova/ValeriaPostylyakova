@@ -1,8 +1,8 @@
+# Привет, меня зовут Постылякова Валерия 👋
+
 ![Header](https://github.com/ValeriaPostylyakova/ValeriaPostylyakova/blob/main/assets/frontend-developer.gif)
 
-## Привет, меня зовут Постылякова Валерия 👋
-
-### Обо мне
+## Обо мне
 
 - 
 
