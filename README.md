@@ -17,12 +17,16 @@
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/NextJS-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
 ![Static Badge](https://img.shields.io/badge/redux_toolkit-black?style=for-the-badge&logo=redux&logoColor=violet)
 ![Static Badge](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
-![Static Badge](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)
+![Static Badge](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)
 ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
