@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=pink)
 ![Static Badge](https://img.shields.io/badge/tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/styled_components-black?style=for-the-badge&logo=styled-components)
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=blue)
