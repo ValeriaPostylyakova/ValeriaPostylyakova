@@ -33,7 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=pie)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaPostylyakova&layout=compact)
 
 
 ### Мои социальные сети
