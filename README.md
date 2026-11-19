@@ -17,7 +17,6 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=blue)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=green)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
 
